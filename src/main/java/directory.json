@@ -1,0 +1,26 @@
+{
+	"dirs": [{
+		"dir": "Agenda"
+	},
+		{
+			"dir": "Board Meetings & Calls"
+		},
+		{
+			"dir": "CFF for NRP"
+		},
+		{
+			"dir": "Events Calendar"
+		},
+		{
+			"Finances": [
+				"Checking Account Activity"
+			]
+		},
+		{
+			"dir": "Membership"
+		},
+		{
+			"dir": "Regional Roundup Submissions"
+		}
+	]
+}
